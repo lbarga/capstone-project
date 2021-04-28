@@ -1,5 +1,5 @@
 # capstone-project
-This project in python with open-cv detect and count your fingers.
+This is simple script in python with open-cv detect and count your fingers.
 
 ![1](https://user-images.githubusercontent.com/17840539/116330447-f3662e80-a7a3-11eb-95bd-3ad837718085.png)
 ![2](https://user-images.githubusercontent.com/17840539/116330451-f5c88880-a7a3-11eb-9e2b-c4e28c8fe915.png)
