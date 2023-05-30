@@ -1,0 +1,1 @@
+This folder archiving temporary screenshot files.
